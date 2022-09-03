@@ -2,6 +2,8 @@
 
 ##**Este `README.md` esta producción me disculpo por las molestias.**
 
+[Certificados de Platzi](https://josuesn1402-certificados.super.site)
+
 ## ¿Donde encontrarme?
 
 ## Tecnologias que uso:
