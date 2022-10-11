@@ -7,7 +7,7 @@
 ## ¿Donde encontrarme?
 
 <p align="center">
-  <a href="https://twitter.com/josueSN1402">  
+  <a href="https://twitter.com/josuesn1402">  
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>  
   <a href="https://www.instagram.com/josuesn1402/">  
