@@ -1,11 +1,4 @@
-# 👋 Hola a todos, Soy Josue
-
-> **Este `README.md` esta producción me disculpo por las molestias.**
-
-[Certificados de Platzi](https://josuesn1402-certificados.super.site)
-
-## ¿Donde encontrarme?
-
+# 👋 Hi, I'm Josue
 <p align="center">
   <a href="https://twitter.com/josuesn1402">  
     <img src="https://skillicons.dev/icons?i=twitter" />
@@ -23,6 +16,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,ps)](https://skillicons.dev)
 
-<p><a href="https://twitter.com/josuesn1402"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=josuesn1402&amp;layout=wide" alt="github-readme-twitter"></a></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=josueSN1402&amp;show_icons=true" alt="GitHub Stats"></p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=josueSN1402&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" />
+  </a>
+</p>
+<hr/>
+<p align="center">
+  <a href="https://twitter.com/josuesn1402">
+    <img src="https://github-readme-twitter.gazf.vercel.app/api?id=josuesn1402&amp;layout=wide" alt="github-readme-twitter" />
+  </a>
+</p>
