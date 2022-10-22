@@ -19,10 +19,10 @@
 </p>
 
 ## Tecnologias que uso:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,java,cs,git,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,sass,mysql,java)](https://skillicons.dev)
 
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode,ps)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode,visualstudio,ps)](https://skillicons.dev)
+<p><a href="https://twitter.com/josuesn1402"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=josuesn1402&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<p><img src="https://github-readme-stats.vercel.app/api?username=josueSN1402&amp;show_icons=true" alt="GitHub Stats"></p>
