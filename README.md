@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Josue
-<p align="center">
+# 👋 Hi there
+<div align="center">
   <a href="https://twitter.com/josuesn1402">  
       <img src="https://skillicons.dev/icons?i=twitter" width="60px" />
   </a>
@@ -11,7 +11,10 @@
   <a href="https://www.linkedin.com/in/josue-sanchez-nima/">  
       <img src="https://skillicons.dev/icons?i=linkedin" width="60px" />
   </a>
-</p>
+  <br />
+  <br />
+  <p align="center">I'm Josue, frontend developer in training. I'm from Peru</p>
+</div>
 
 ## 🎯 Some technologies I use:
 
@@ -53,7 +56,7 @@
 </table>
 
 <!-- ### Other software: -->
-<h3 align="center">💻 Other sofware</h3>  
+<h3 align="center">💻 Others software</h3>  
 <table align="center">
   <tr>
     <td>
