@@ -1,13 +1,15 @@
 # 👋 Hi, I'm Josue
 <p align="center">
   <a href="https://twitter.com/josuesn1402">  
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=25 />
-  </a>  
+      <img src="https://skillicons.dev/icons?i=twitter" width="60px" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/josuesn1402/">  
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25 />
-  </a>  
+      <img src="https://skillicons.dev/icons?i=instagram" width="60px" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/josue-sanchez-nima/">  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25 />
+      <img src="https://skillicons.dev/icons?i=linkedin" width="60px" />
   </a>
 </p>
 
@@ -19,6 +21,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60px" />
     </td>
     <td>
+      <img src="https://skillicons.dev/icons?i=github" width="60px" />
+    </td>
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px" />
     </td>
     <td>
@@ -27,11 +32,11 @@
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" />
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60px" />
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60px" />
     </td>
@@ -43,9 +48,6 @@
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60px" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="60px" />
     </td>
   </tr>
 </table>
@@ -74,6 +76,16 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="josueSN1402's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueSN1402&langs_count=8&layout=compact&theme=dracula&hide_border=true" height="192px"/></a>
 </p>
 
+## 💼 My projects
+
+<p align="center">
+  <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Course-Intro-React&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="intro react"></a>
+  <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Interactive-rating-component&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend challenge"></a>
+  <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Google-Clone&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="google clone"></a>
+  <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Product-preview-card-component&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend challenge"></a>
+  <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=NFT-preview-card-component&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend challenge"></a>
+  <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=3-column-preview-card-component&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend challenge"></a>
+</p>
 
 ## 🌎 Latest activities:
 
