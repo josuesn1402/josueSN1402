@@ -87,7 +87,7 @@
   <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Google-Clone&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="google clone"></a>
   <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Product-preview-card-component&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend challenge"></a>
   <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=NFT-preview-card-component&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend challenge"></a>
-  <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=3-column-preview-card-component&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend challenge"></a>
+  <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Notifications-page&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend challenge"></a>
 </p>
 
 ## 🌎 Latest activities:
