@@ -75,19 +75,26 @@
 ## 👨‍💻 Some of my stats are:
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="josueSN1402's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=josueSN1402&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="josueSN1402's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=josueSN1402&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=truea&hide=issues" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="josueSN1402's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueSN1402&langs_count=8&layout=compact&theme=dracula&hide_border=true" height="192px"/></a>
+</p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=josueSN1402&theme=dracula&bg_color=282a36&color=dd6387&hide_border=true&&line=dd6387&point=70C7E5&count_private=true" width="100%" />
 </p>
 
 ## 💼 My projects
 
 <p align="center">
-  <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Course-Intro-React&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="intro react"></a>
-  <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Interactive-rating-component&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend challenge"></a>
-  <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Google-Clone&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="google clone"></a>
-  <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Product-preview-card-component&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend challenge"></a>
-  <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=NFT-preview-card-component&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend challenge"></a>
-  <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Notifications-page&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend challenge"></a>
+  <a href="https://github.com/josueSN1402/Course-Intro-React"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Course-Intro-React&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="intro react"></a>
+  <a href="https://github.com/josueSN1402/Interactive-rating-component"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Interactive-rating-component&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend Mentor challenge"></a>
+  <a href="https://github.com/josueSN1402/Google-Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Google-Clone&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="google clone"></a>
+  <a href="https://github.com/josueSN1402/Product-preview-card-component"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Product-preview-card-component&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend Mentor challenge"></a>
+  <a href="https://github.com/josueSN1402/NFT-preview-card-component"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=NFT-preview-card-component&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend Mentor challenge"></a>
+  <a href="https://github.com/josueSN1402/Notifications-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Notifications-page&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend Mentor challenge"></a>
+</p>
+
+<p align="center">
+  ⚙️ Build using <a href="https://github.com/DenverCoder1/github-readme-stats">this repository</a>
 </p>
 
 ## 🌎 Latest activities:
