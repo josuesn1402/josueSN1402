@@ -85,10 +85,10 @@
 ## 💼 My projects
 
 <p align="center">
+  <a href="https://github.com/josueSN1402/News-homepage"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=News-homepage&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend Mentor challenge"></a>
   <a href="https://github.com/josueSN1402/Course-Intro-React"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Course-Intro-React&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="intro react"></a>
   <a href="https://github.com/josueSN1402/Interactive-rating-component"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Interactive-rating-component&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend Mentor challenge"></a>
   <a href="https://github.com/josueSN1402/Google-Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Google-Clone&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="google clone"></a>
-  <a href="https://github.com/josueSN1402/Product-preview-card-component"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Product-preview-card-component&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend Mentor challenge"></a>
   <a href="https://github.com/josueSN1402/NFT-preview-card-component"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=NFT-preview-card-component&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend Mentor challenge"></a>
   <a href="https://github.com/josueSN1402/Notifications-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=josueSN1402&repo=Notifications-page&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend Mentor challenge"></a>
 </p>
