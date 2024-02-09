@@ -79,7 +79,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="josueSN1402's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueSN1402&langs_count=8&layout=compact&theme=dracula&hide_border=true" height="192px"/></a>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=josueSN1402&theme=dracula&bg_color=282a36&color=dd6387&hide_border=true&&line=dd6387&point=70C7E5&count_private=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josueSN1402&theme=dracula&bg_color=282a36&color=dd6387&hide_border=true&&line=dd6387&point=70C7E5&count_private=true" width="100%" />
 </p>
 
 ## 💼 My projects
