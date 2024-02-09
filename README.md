@@ -97,10 +97,3 @@
   ⚙️ Build using <a href="https://github.com/DenverCoder1/github-readme-stats">this repository</a>
 </p>
 
-## 🌎 Latest activities:
-
-<p align="center">
-  <a href="https://twitter.com/josuesn1402">
-    <img src="https://github-readme-twitter.gazf.vercel.app/api?id=josuesn1402&amp;layout=wide" alt="github-readme-twitter" />
-  </a>
-</p>
